@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/restart.cs">
+    <Files>
+      <File FileName="Assets/FinalSwitch.cs" Line="6" Column="4" />
+      <File FileName="Assets/Scripts/Player/PlayerHealth.cs" Line="81" Column="36" />
+      <File FileName="Assets/Scripts/restart.cs" Line="39" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
